@@ -69,3 +69,5 @@ The project combines manual budgeting, transaction analysis, charts, and OCR-ass
 - Name: Pui Chi Angie Wong
 - Student ID: C22087025
 - Email: WongPC@cardiff.ac.uk
+
+
