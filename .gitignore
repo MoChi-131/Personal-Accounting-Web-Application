@@ -25,3 +25,7 @@ Thumbs.db
 app/static/uploads/*
 !app/static/uploads/.gitkeep
 app/extracted_data.xlsx
+
+# Demo media (local only)
+docs/demo/*
+!docs/demo/.gitkeep
