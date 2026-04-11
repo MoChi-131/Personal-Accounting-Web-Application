@@ -65,9 +65,6 @@ The project combines manual budgeting, transaction analysis, charts, and OCR-ass
 - If upload validation fails, ensure files are only `.jpg`, `.png`, or `.pdf` and within size limits.
 - If MongoDB connection fails, verify `MONGO_URI` and MongoDB service status.
 
-## Author
-- Name: Pui Chi Angie Wong
-- Student ID: C22087025
-- Email: WongPC@cardiff.ac.uk
+
 
 
