@@ -72,5 +72,7 @@ def pdf_extract(pdf_path):
     print(f"✅ OCR process completed! Extracted text saved in {output}")
 
 if __name__ == "__main__":
-    pdf_extract(r"C:\Users\awang\OneDrive\桌面\CU\Year 3\FYP\FYP\Interface\OCR\input\sample_short.pdf")
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    sample_pdf = os.path.join(current_dir, '..', 'input', 'sample_short.pdf')
+    pdf_extract(sample_pdf)
 
