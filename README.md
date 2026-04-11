@@ -25,8 +25,7 @@ The project combines manual budgeting, transaction analysis, charts, and OCR-ass
 - docs/setup/: Setup notes and command snippets
 
 ## Demonstration
-- A full project walkthrough video was prepared for submission.
-- Due to GitHub's 100MB file limit, the raw demo video is kept outside git history.
+- Project walkthrough video: [Watch the demonstration](PASTE_VIDEO_LINK_HERE)
 
 ## Prerequisites
 - Python 3.10+
@@ -64,7 +63,6 @@ The project combines manual budgeting, transaction analysis, charts, and OCR-ass
 - The active codebase is under `app/`.
 - Legacy duplicate folders were removed to keep the repository non-redundant.
 - Uploaded files and generated outputs should not be committed.
-- Local large media files in `docs/demo/` are intentionally not tracked.
 
 ## Troubleshooting
 - If Flask starts but charts are missing, refresh after navigating through trend pages.
