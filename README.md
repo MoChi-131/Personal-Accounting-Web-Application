@@ -26,8 +26,8 @@ The project combines manual budgeting, transaction analysis, charts, and OCR-ass
 
 ## Demonstration
 - Project walkthrough video: [Watch the demonstration](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucabpw4_ucl_ac_uk/IQCuOyuG8e6xSZ_P6ibRJ_XTAe8lhd_iuUsfNZdKMqgDMR8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QhIJKo)
+> 🔊 Note: The audio in the walkthrough video is low. Please increase your volume when watching.
 
--
 - ## Prerequisites
 - Python 3.10+
 - MongoDB server (local or remote)
