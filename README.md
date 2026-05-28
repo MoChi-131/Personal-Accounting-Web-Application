@@ -25,7 +25,7 @@ The project combines manual budgeting, transaction analysis, charts, and OCR-ass
 - docs/setup/: Setup notes and command snippets
 
 ## Demonstration
-- Project walkthrough video: [Watch the demonstration](PASTE_VIDEO_LINK_HERE)
+- Project walkthrough video: [Watch the demonstration]([PASTE_VIDEO_LINK_HERE](https://liveuclac-my.sharepoint.com/:v:/g/personal/ucabpw4_ucl_ac_uk/IQCuOyuG8e6xSZ_P6ibRJ_XTAe8lhd_iuUsfNZdKMqgDMR8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QhIJKo))
 
 ## Prerequisites
 - Python 3.10+
